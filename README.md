@@ -1,4 +1,4 @@
-![Logo](https://cdn.cottle.cloud/GitHub/LittleLink/littlelink.gif)
+<!-- ![Logo](https://cdn.cottle.cloud/GitHub/LittleLink/littlelink.gif)
 
 # LittleLink
 The DIY self-hosted LinkTree alternative. LittleLink has more than 100 branded button styles you can easily use, with more regularly added by our community in this repo and in [LittleLink Extended](https://github.com/sethcottle/littlelink-extended).
@@ -126,4 +126,4 @@ This will make the site available at http://localhost:8080
 
 For more information about Docker configuration, see [docker/README.md](docker/README.md).
 
----
+--- -->
